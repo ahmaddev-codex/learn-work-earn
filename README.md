@@ -6,39 +6,36 @@
 
 ## 📁 Repository Structure
 
-```
-learn-work-earn/
-├── README.md                    # This file - overview & navigation
-├── academics/                   # 📚 Everything academic - Masters & PhD
-│   ├── README.md               # Academics overview & timeline
-│   ├── uk-masters.md           # UK Masters programs
-│   ├── uk-phd.md               # UK PhD programs
-│   ├── canada-masters.md       # Canada Masters programs
-│   ├── canada-phd.md           # Canada PhD programs
-│   ├── australia-masters.md    # Australia Masters programs
-│   ├── australia-phd.md        # Australia PhD programs
-│   ├── professors.md           # Professors to reach out to
-│   ├── papers.md               # Must-read papers & reading list
-│   └── timeline.md             # Application timeline & deadlines
-├── work/                        # 💼 Everything career - Software Engineering
-│   ├── README.md               # Work overview & strategy
-│   ├── uk-jobs.md              # UK software engineering jobs
-│   ├── canada-jobs.md          # Canada software engineering jobs
-│   ├── australia-jobs.md       # Australia software engineering jobs
-│   ├── remote-jobs.md          # Remote-first opportunities
-│   ├── companies.md            # Target companies database
-│   ├── salary-guide.md         # Salary expectations by region
-│   └── timeline.md             # Job application timeline
-├── templates/                   # 📋 Reusable templates
-│   ├── cold-email.md           # Cold email to professors
-│   ├── cover-letter.md         # Cover letter template
-│   ├── cv.md                   # CV template
-│   └── sop.md                  # Statement of Purpose template
-└── resources/                   # 🔗 Useful resources
-    ├── scholarships.md           # Scholarship database
-    ├── visa-info.md             # Visa & immigration info
-    └── tools.md                 # Productivity tools & links
-```
+- **[README.md](README.md)** - Overview & navigation
+- **[academics/](academics/)** - 📚 Everything academic - Masters & PhD
+  - [README.md](academics/README.md) - Academics overview & timeline
+  - [uk-masters.md](academics/uk-masters.md) - UK Masters programs
+  - [uk-phd.md](academics/uk-phd.md) - UK PhD programs
+  - [canada-masters.md](academics/canada-masters.md) - Canada Masters programs
+  - [canada-phd.md](academics/canada-phd.md) - Canada PhD programs
+  - [australia-masters.md](academics/australia-masters.md) - Australia Masters programs
+  - [australia-phd.md](academics/australia-phd.md) - Australia PhD programs
+  - [professors.md](academics/professors.md) - Professors to reach out to
+  - [papers.md](academics/papers.md) - Must-read papers & reading list
+  - [timeline.md](academics/timeline.md) - Application timeline & deadlines
+- **[work/](work/)** - 💼 Everything career - Software Engineering
+  - [README.md](work/README.md) - Work overview & strategy
+  - [uk-jobs.md](work/uk-jobs.md) - UK software engineering jobs
+  - [canada-jobs.md](work/canada-jobs.md) - Canada software engineering jobs
+  - [australia-jobs.md](work/australia-jobs.md) - Australia software engineering jobs
+  - [remote-jobs.md](work/remote-jobs.md) - Remote-first opportunities
+  - [companies.md](work/companies.md) - Target companies database
+  - [salary-guide.md](work/salary-guide.md) - Salary expectations by region
+  - [timeline.md](work/timeline.md) - Job application timeline
+- **[templates/](templates/)** - 📋 Reusable templates
+  - [cold-email.md](templates/cold-email.md) - Cold email to professors
+  - [cover-letter.md](templates/cover-letter.md) - Cover letter template
+  - [cv.md](templates/cv.md) - CV template
+  - [sop.md](templates/sop.md) - Statement of Purpose template
+- **[resources/](resources/)** - 🔗 Useful resources
+  - [scholarships.md](resources/scholarships.md) - Scholarship database
+  - [visa-info.md](resources/visa-info.md) - Visa & immigration info
+  - [tools.md](resources/tools.md) - Productivity tools & links
 
 ## What's included
 ```
