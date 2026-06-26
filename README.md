@@ -41,16 +41,16 @@
 ```
 | Category         | Details                                                                             |
 | ---------------- | ----------------------------------------------------------------------------------- |
-| **Programs**     | 38 Masters + 15 PhD programs with tuition, deadlines, requirements                  |
-| **Professors**   | 75 with research areas, emails, contact status tracking                             |
-| **Papers**       | 68 foundational + recent papers across ML, NLP, CV, RL, Security, Systems, Theory   |
-| **Companies**    | 100+ with visa sponsorship status, salary ranges, application tracking              |
-| **Salaries**     | Entry to C-level, by city, with GBP/CAD/AUD/USD conversions                         |
-| **Visas**        | Graduate visa, Skilled Worker, PGWP, Express Entry, 485, points systems             |
-| **Scholarships** | Chevening, Vanier, RTP, Commonwealth, Gates, and 30+ more                           |
-| **Templates**    | Cold emails, cover letters, CV, SOP with country-specific tips                      |
-| **Tools**        | LeetCode, job boards, resume builders, mock interview platforms, learning resources |
-| **Timelines**    | Month-by-month checklists from July 2026 to September 2027                          |
+| Programs         | 38 Masters + 15 PhD programs with tuition, deadlines, requirements                  |
+| Professors       | 75 with research areas, emails, contact status tracking                             |
+| Papers           | 68 foundational + recent papers across ML, NLP, CV, RL, Security, Systems, Theory   |
+| Companies        | 100+ with visa sponsorship status, salary ranges, application tracking              |
+| Salaries         | Entry to C-level, by city, with GBP/CAD/AUD/USD conversions                         |
+| Visas            | Graduate visa, Skilled Worker, PGWP, Express Entry, 485, points systems             |
+| Scholarships     | Chevening, Vanier, RTP, Commonwealth, Gates, and 30+ more                           |
+| Templates        | Cold emails, cover letters, CV, SOP with country-specific tips                      |
+| Tools            | LeetCode, job boards, resume builders, mock interview platforms, learning resources |
+| Timelines        | Month-by-month checklists from July 2026 to September 2027                          |
 ```
 
 ---
