@@ -29,10 +29,10 @@ Jan 2027    Feb 2027    Mar 2027    Apr 2027    May 2027    Jun 2027
 
 | Week | Task | Deadline | Priority | Status |
 |------|------|----------|----------|--------|
-| Jul 1-7 | Update LinkedIn profile with professional photo, headline, summary | Jul 7 | 🔴 High | 🔴 |
-| Jul 8-14 | Update GitHub profile - pin best projects, update READMEs | Jul 14 | 🔴 High | 🔴 |
-| Jul 15-21 | Create/update personal portfolio website | Jul 21 | 🟡 Medium | 🔴 |
-| Jul 22-31 | Audit and improve existing projects - add tests, docs, CI/CD | Jul 31 | 🟡 Medium | 🔴 |
+| Jul 1-7 | Update LinkedIn profile with professional photo, headline, summary | Jul 7 | 🔴 High | ⬜ |
+| Jul 8-14 | Update GitHub profile - pin best projects, update READMEs | Jul 14 | 🔴 High | ⬜ |
+| Jul 15-21 | Create/update personal portfolio website | Jul 21 | 🟡 Medium | ⬜ |
+| Jul 22-31 | Audit and improve existing projects - add tests, docs, CI/CD | Jul 31 | 🟡 Medium | ⬜ |
 
 **Key Deliverables:**
 - [ ] LinkedIn profile optimized (95%+ completeness)
@@ -56,10 +56,10 @@ Jan 2027    Feb 2027    Mar 2027    Apr 2027    May 2027    Jun 2027
 
 | Week | Task | Deadline | Priority | Status |
 |------|------|----------|----------|--------|
-| Aug 1-7 | Start LeetCode practice - 1-2 problems/day | Aug 7 | 🔴 High | 🔴 |
-| Aug 8-14 | Build 1 new portfolio project (full-stack or ML) | Aug 14 | 🟡 Medium | 🔴 |
-| Aug 15-21 | Study system design basics (Designing Data-Intensive Apps) | Aug 21 | 🔴 High | 🔴 |
-| Aug 22-31 | Practice behavioral questions (STAR method) | Aug 31 | 🔴 High | 🔴 |
+| Aug 1-7 | Start LeetCode practice - 1-2 problems/day | Aug 7 | 🔴 High | ⬜ |
+| Aug 8-14 | Build 1 new portfolio project (full-stack or ML) | Aug 14 | 🟡 Medium | ⬜ |
+| Aug 15-21 | Study system design basics (Designing Data-Intensive Apps) | Aug 21 | 🔴 High | ⬜ |
+| Aug 22-31 | Practice behavioral questions (STAR method) | Aug 31 | 🔴 High | ⬜ |
 
 **LeetCode Study Plan:**
 
@@ -99,10 +99,10 @@ Jan 2027    Feb 2027    Mar 2027    Apr 2027    May 2027    Jun 2027
 
 | Week | Task | Deadline | Priority | Status |
 |------|------|----------|----------|--------|
-| Sep 1-7 | Draft master resume (2 pages) | Sep 7 | 🔴 High | 🔴 |
-| Sep 8-14 | Create tailored resumes for UK, Canada, Australia | Sep 14 | 🔴 High | 🔴 |
-| Sep 15-21 | Research 50 target companies (use companies.md) | Sep 21 | 🔴 High | 🔴 |
-| Sep 22-30 | Set up job alerts on LinkedIn, Indeed, Glassdoor | Sep 30 | 🟡 Medium | 🔴 |
+| Sep 1-7 | Draft master resume (2 pages) | Sep 7 | 🔴 High | ⬜ |
+| Sep 8-14 | Create tailored resumes for UK, Canada, Australia | Sep 14 | 🔴 High | ⬜ |
+| Sep 15-21 | Research 50 target companies (use companies.md) | Sep 21 | 🔴 High | ⬜ |
+| Sep 22-30 | Set up job alerts on LinkedIn, Indeed, Glassdoor | Sep 30 | 🟡 Medium | ⬜ |
 
 **Resume Tips by Country:**
 
@@ -142,10 +142,10 @@ Jan 2027    Feb 2027    Mar 2027    Apr 2027    May 2027    Jun 2027
 
 | Week | Task | Deadline | Priority | Status |
 |------|------|----------|----------|--------|
-| Oct 1-7 | Apply to 5 companies (UK focus) | Oct 7 | 🔴 High | 🔴 |
-| Oct 8-14 | Apply to 5 companies (Canada focus) | Oct 14 | 🔴 High | 🔴 |
-| Oct 15-21 | Apply to 5 companies (Australia focus) | Oct 21 | 🔴 High | 🔴 |
-| Oct 22-31 | Apply to 5 companies (Remote focus) | Oct 31 | 🔴 High | 🔴 |
+| Oct 1-7 | Apply to 5 companies (UK focus) | Oct 7 | 🔴 High | ⬜ |
+| Oct 8-14 | Apply to 5 companies (Canada focus) | Oct 14 | 🔴 High | ⬜ |
+| Oct 15-21 | Apply to 5 companies (Australia focus) | Oct 21 | 🔴 High | ⬜ |
+| Oct 22-31 | Apply to 5 companies (Remote focus) | Oct 31 | 🔴 High | ⬜ |
 
 **Application Tracking:**
 
@@ -165,10 +165,10 @@ Jan 2027    Feb 2027    Mar 2027    Apr 2027    May 2027    Jun 2027
 
 | Week | Task | Deadline | Priority | Status |
 |------|------|----------|----------|--------|
-| Nov 1-7 | Continue applications (10 companies) | Nov 7 | 🔴 High | 🔴 |
-| Nov 8-14 | Continue applications (10 companies) | Nov 14 | 🔴 High | 🔴 |
-| Nov 15-21 | Follow up on applications sent in Oct | Nov 21 | 🟡 Medium | 🔴 |
-| Nov 22-30 | Continue applications (10 companies) | Nov 30 | 🔴 High | 🔴 |
+| Nov 1-7 | Continue applications (10 companies) | Nov 7 | 🔴 High | ⬜ |
+| Nov 8-14 | Continue applications (10 companies) | Nov 14 | 🔴 High | ⬜ |
+| Nov 15-21 | Follow up on applications sent in Oct | Nov 21 | 🟡 Medium | ⬜ |
+| Nov 22-30 | Continue applications (10 companies) | Nov 30 | 🔴 High | ⬜ |
 
 **Networking Activities:**
 - [ ] Attend 1 virtual tech meetup per week
@@ -183,10 +183,10 @@ Jan 2027    Feb 2027    Mar 2027    Apr 2027    May 2027    Jun 2027
 
 | Week | Task | Deadline | Priority | Status |
 |------|------|----------|----------|--------|
-| Dec 1-7 | Continue applications (10 companies) | Dec 7 | 🔴 High | 🔴 |
-| Dec 8-14 | Follow up on all pending applications | Dec 14 | 🟡 Medium | 🔴 |
-| Dec 15-21 | Prepare for technical interviews | Dec 21 | 🔴 High | 🔴 |
-| Dec 22-31 | Holiday break + light interview prep | Dec 31 | 🟢 Low | 🔴 |
+| Dec 1-7 | Continue applications (10 companies) | Dec 7 | 🔴 High | ⬜ |
+| Dec 8-14 | Follow up on all pending applications | Dec 14 | 🟡 Medium | ⬜ |
+| Dec 15-21 | Prepare for technical interviews | Dec 21 | 🔴 High | ⬜ |
+| Dec 22-31 | Holiday break + light interview prep | Dec 31 | 🟢 Low | ⬜ |
 
 **Interview Preparation Checklist:**
 - [ ] LeetCode: 150+ problems solved
@@ -204,10 +204,10 @@ Jan 2027    Feb 2027    Mar 2027    Apr 2027    May 2027    Jun 2027
 
 | Week | Task | Deadline | Priority | Status |
 |------|------|----------|----------|--------|
-| Jan 1-7 | Attend recruiter screens (expect 3-5) | Jan 7 | 🔴 High | 🔴 |
-| Jan 8-14 | Attend technical screens (expect 2-4) | Jan 14 | 🔴 High | 🔴 |
-| Jan 15-21 | Attend on-site/virtual interviews (expect 1-3) | Jan 21 | 🔴 High | 🔴 |
-| Jan 22-31 | Continue applications + interview prep | Jan 31 | 🔴 High | 🔴 |
+| Jan 1-7 | Attend recruiter screens (expect 3-5) | Jan 7 | 🔴 High | ⬜ |
+| Jan 8-14 | Attend technical screens (expect 2-4) | Jan 14 | 🔴 High | ⬜ |
+| Jan 15-21 | Attend on-site/virtual interviews (expect 1-3) | Jan 21 | 🔴 High | ⬜ |
+| Jan 22-31 | Continue applications + interview prep | Jan 31 | 🔴 High | ⬜ |
 
 **Interview Week Schedule Example:**
 
@@ -231,10 +231,10 @@ Jan 2027    Feb 2027    Mar 2027    Apr 2027    May 2027    Jun 2027
 
 | Week | Task | Deadline | Priority | Status |
 |------|------|----------|----------|--------|
-| Feb 1-7 | Attend final round interviews | Feb 7 | 🔴 High | 🔴 |
-| Feb 8-14 | Receive first offers | Feb 14 | 🔴 High | 🔴 |
-| Feb 15-21 | Compare offers, research companies | Feb 21 | 🔴 High | 🔴 |
-| Feb 22-28 | Begin negotiations | Feb 28 | 🔴 High | 🔴 |
+| Feb 1-7 | Attend final round interviews | Feb 7 | 🔴 High | ⬜ |
+| Feb 8-14 | Receive first offers | Feb 14 | 🔴 High | ⬜ |
+| Feb 15-21 | Compare offers, research companies | Feb 21 | 🔴 High | ⬜ |
+| Feb 22-28 | Begin negotiations | Feb 28 | 🔴 High | ⬜ |
 
 **Offer Evaluation Matrix:**
 
@@ -256,10 +256,10 @@ Jan 2027    Feb 2027    Mar 2027    Apr 2027    May 2027    Jun 2027
 
 | Week | Task | Deadline | Priority | Status |
 |------|------|----------|----------|--------|
-| Mar 1-7 | Final negotiations | Mar 7 | 🔴 High | 🔴 |
-| Mar 8-14 | Accept best offer | Mar 14 | 🔴 High | 🔴 |
-| Mar 15-21 | Decline other offers gracefully | Mar 21 | 🟡 Medium | 🔴 |
-| Mar 22-31 | Prepare for start date | Mar 31 | 🟡 Medium | 🔴 |
+| Mar 1-7 | Final negotiations | Mar 7 | 🔴 High | ⬜ |
+| Mar 8-14 | Accept best offer | Mar 14 | 🔴 High | ⬜ |
+| Mar 15-21 | Decline other offers gracefully | Mar 21 | 🟡 Medium | ⬜ |
+| Mar 22-31 | Prepare for start date | Mar 31 | 🟡 Medium | ⬜ |
 
 ---
 
@@ -269,10 +269,10 @@ Jan 2027    Feb 2027    Mar 2027    Apr 2027    May 2027    Jun 2027
 
 | Week | Task | Deadline | Priority | Status |
 |------|------|----------|----------|--------|
-| Apr 1-7 | Apply for work visa (if needed) | Apr 7 | 🔴 High | 🔴 |
-| Apr 8-14 | Research housing in target city | Apr 14 | 🟡 Medium | 🔴 |
-| Apr 15-21 | Book temporary accommodation | Apr 21 | 🟡 Medium | 🔴 |
-| Apr 22-30 | Plan relocation logistics | Apr 30 | 🟡 Medium | 🔴 |
+| Apr 1-7 | Apply for work visa (if needed) | Apr 7 | 🔴 High | ⬜ |
+| Apr 8-14 | Research housing in target city | Apr 14 | 🟡 Medium | ⬜ |
+| Apr 15-21 | Book temporary accommodation | Apr 21 | 🟡 Medium | ⬜ |
+| Apr 22-30 | Plan relocation logistics | Apr 30 | 🟡 Medium | ⬜ |
 
 **Visa Application Timeline:**
 
@@ -291,10 +291,10 @@ Jan 2027    Feb 2027    Mar 2027    Apr 2027    May 2027    Jun 2027
 
 | Week | Task | Deadline | Priority | Status |
 |------|------|----------|----------|--------|
-| May 1-7 | Book flights | May 7 | 🔴 High | 🔴 |
-| May 8-14 | Arrange shipping/moving | May 14 | 🟡 Medium | 🔴 |
-| May 15-21 | Set up bank account (if possible remotely) | May 21 | 🟡 Medium | 🔴 |
-| May 22-31 | Final preparations, say goodbye | May 31 | 🟢 Low | 🔴 |
+| May 1-7 | Book flights | May 7 | 🔴 High | ⬜ |
+| May 8-14 | Arrange shipping/moving | May 14 | 🟡 Medium | ⬜ |
+| May 15-21 | Set up bank account (if possible remotely) | May 21 | 🟡 Medium | ⬜ |
+| May 22-31 | Final preparations, say goodbye | May 31 | 🟢 Low | ⬜ |
 
 ---
 
@@ -302,10 +302,10 @@ Jan 2027    Feb 2027    Mar 2027    Apr 2027    May 2027    Jun 2027
 
 | Week | Task | Deadline | Priority | Status |
 |------|------|----------|----------|--------|
-| Jun 1-7 | Travel to destination | Jun 7 | 🔴 High | 🔴 |
-| Jun 8-14 | Settle in, find permanent housing | Jun 14 | 🔴 High | 🔴 |
-| Jun 15-21 | Explore city, set up utilities | Jun 21 | 🟡 Medium | 🔴 |
-| Jun 22-30 | Start new job! 🎉 | Jun 30 | 🎉 | 🔴 |
+| Jun 1-7 | Travel to destination | Jun 7 | 🔴 High | ⬜ |
+| Jun 8-14 | Settle in, find permanent housing | Jun 14 | 🔴 High | ⬜ |
+| Jun 15-21 | Explore city, set up utilities | Jun 21 | 🟡 Medium | ⬜ |
+| Jun 22-30 | Start new job! 🎉 | Jun 30 | 🎉 | ⬜ |
 
 ---
 
@@ -388,18 +388,18 @@ Jan 2027    Feb 2027    Mar 2027    Apr 2027    May 2027    Jun 2027
 ## 🔔 Important Reminders
 
 ### Set Calendar Reminders For:
-- [ ] July 1, 2026: Start LinkedIn/GitHub updates
-- [ ] August 1, 2026: Start LeetCode daily practice
-- [ ] September 1, 2026: Draft resumes
-- [ ] October 1, 2026: Start applications
-- [ ] November 1, 2026: Ramp up applications
-- [ ] December 1, 2026: Intensify interview prep
-- [ ] January 1, 2027: Interview season begins
-- [ ] February 1, 2027: Expect first offers
-- [ ] March 15, 2027: Decision deadline
-- [ ] April 1, 2027: Visa application
-- [ ] May 1, 2027: Book flights
-- [ ] June 1, 2027: Relocate and start!
+- [ ] **2026-07-01**: Start LinkedIn/GitHub updates
+- [ ] **2026-08-01**: Start LeetCode daily practice
+- [ ] **2026-09-01**: Draft resumes and research companies
+- [ ] **2026-10-01**: Start applications (UK, Canada, Australia)
+- [ ] **2026-11-01**: Ramp up applications — target 30 total by month end
+- [ ] **2026-12-01**: Intensify interview prep + most Canada/UK deadlines
+- [ ] **2027-01-01**: Interview season begins — expect 3-5 recruiter screens
+- [ ] **2027-02-01**: Expect first offers
+- [ ] **2027-03-15**: Decision deadline — finalize choice
+- [ ] **2027-04-01**: Apply for work visa or study permit
+- [ ] **2027-05-01**: Book flights + begin relocation arrangements
+- [ ] **2027-06-01**: Relocate and start!
 
 ---
 
@@ -418,5 +418,11 @@ Jan 2027    Feb 2027    Mar 2027    Apr 2027    May 2027    Jun 2027
 
 ---
 
-*Last updated: June 2026*
-*Note: Timeline is flexible. Adjust based on your situation and market conditions.*
+---
+
+## 🗺️ Status Legend
+| ⬜ Not Started | 🔵 In Progress | ✅ Done | ❌ Skipped |
+
+---
+
+*Last updated: 2026-06-29 | Adjust all dates based on your specific programs and target countries.*

@@ -212,12 +212,17 @@
 
 | Attribute | Details |
 |-----------|---------|
-| **Post-Study Work Stream** | 2 years (Masters), 3 years (PhD) |
+| **Post-Study Work Stream — Coursework Masters** | **2 years** |
+| **Post-Study Work Stream — Research Masters** | **3 years** |
+| **Post-Study Work Stream — PhD** | **4 years** (updated 2024) |
+| **Regional Study Bonus** | +2 years additional for regional study |
 | **Graduate Work Stream** | 18 months (occupation on MLTSSL) |
 | **Cost** | AUD $1,945 |
 | **Processing Time** | 4-8 weeks |
-| **Work Rights** | Full-time, any employer |
-| **Settlement Path** | Can apply for PR through General Skilled Migration |
+| **Work Rights** | Full-time, any employer, unrestricted |
+| **Settlement Path** | General Skilled Migration (189/190/491) |
+
+> ⚠️ **Updated 2024:** PhD graduates now receive 4 years (previously 3). Research Masters = 3 years (previously 2). Regional study adds 2 more years.
 
 ### Skilled Independent Visa (Subclass 189)
 

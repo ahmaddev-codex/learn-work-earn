@@ -54,32 +54,32 @@
 
 | Week | Task | Status |
 |------|------|--------|
-| Jul 1-2 | Update LinkedIn and GitHub profiles | 🔴 |
-| Jul 3-4 | Build/update portfolio projects | 🔴 |
-| Aug 1-2 | Practice coding interviews (LeetCode) | 🔴 |
-| Aug 3-4 | Prepare system design basics | 🔴 |
-| Sep 1-2 | Draft resume for each country | 🔴 |
-| Sep 3-4 | Research target companies | 🔴 |
+| Jul 1-2 | Update LinkedIn and GitHub profiles | ⬜ |
+| Jul 3-4 | Build/update portfolio projects | ⬜ |
+| Aug 1-2 | Practice coding interviews (LeetCode) | ⬜ |
+| Aug 3-4 | Prepare system design basics | ⬜ |
+| Sep 1-2 | Draft resume for each country | ⬜ |
+| Sep 3-4 | Research target companies | ⬜ |
 
 ### Phase 2: Application (October - December 2026)
 
 | Week | Task | Status |
 |------|------|--------|
-| Oct 1-2 | Apply to 5-10 companies per week | 🔴 |
-| Oct 3-4 | Network on LinkedIn, attend virtual events | 🔴 |
-| Nov 1-2 | Continue applications, follow up | 🔴 |
-| Nov 3-4 | Prepare for technical interviews | 🔴 |
-| Dec 1-2 | Attend interviews | 🔴 |
-| Dec 3-4 | Evaluate offers | 🔴 |
+| Oct 1-2 | Apply to 5-10 companies per week | ⬜ |
+| Oct 3-4 | Network on LinkedIn, attend virtual events | ⬜ |
+| Nov 1-2 | Continue applications, follow up | ⬜ |
+| Nov 3-4 | Prepare for technical interviews | ⬜ |
+| Dec 1-2 | Attend interviews | ⬜ |
+| Dec 3-4 | Evaluate offers | ⬜ |
 
 ### Phase 3: Decision & Onboarding (January - March 2027)
 
 | Week | Task | Status |
 |------|------|--------|
-| Jan 1-2 | Compare offers, negotiate | 🔴 |
-| Jan 3-4 | Accept offer, sign contract | 🔴 |
-| Feb 1-2 | Apply for work visa (if needed) | 🔴 |
-| Mar 1-2 | Relocate and start! | 🔴 |
+| Jan 1-2 | Compare offers, negotiate | ⬜ |
+| Jan 3-4 | Accept offer, sign contract | ⬜ |
+| Feb 1-2 | Apply for work visa (if needed) | ⬜ |
+| Mar 1-2 | Relocate and start! | ⬜ |
 
 ---
 
@@ -222,4 +222,4 @@
 
 ---
 
-*Last updated: June 2026*
+*Last updated: 2026-06-29 | 100+ companies tracked | Visa info updated for 2024 changes (485: PhD = 4 yrs; Canada PAL requirement)*

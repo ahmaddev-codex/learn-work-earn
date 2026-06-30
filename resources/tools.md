@@ -1,6 +1,7 @@
 # 🛠️ Productivity Tools & Links
 
 > Curated list of tools, platforms, and resources for managing your graduate school applications and job search.
+> **Notion Setup Tip:** Create 5 databases — Applications, Scholarships, Companies, Professors, Papers — linked by Relation properties for a complete tracking hub.
 
 ---
 
@@ -342,5 +343,21 @@ Create a bookmarks folder called "Learn-Work-Earn" and save these links:
 
 ---
 
-*Last updated: June 2026*
-*Tip: Bookmark this page and organize tools in a Notion database or spreadsheet for easy access.*
+---
+
+## 🗂️ Notion Database Templates (Recommended Setup)
+
+| Database | Key Properties | Linked To |
+|---------|---------------|-----------|
+| **Applications** | University, Program, Deadline (Date), Status (Select), LOR Status | Professors, Scholarships |
+| **Scholarships** | Name, Amount, Deadline (Date), Priority (Select), Status (Select) | Applications |
+| **Companies** | Company, Role, Country (Select), Applied Date (Date), Status (Select) | — |
+| **Professors** | Name, University, Email Sent (Date), Response (Date), Fit Score | Applications |
+| **Papers** | Title, Area (Select), Read By (Date), Difficulty (Select), Status (Select) | Professors |
+
+### Import Tip
+Each tracker table in this repository's `.md` files maps directly to a Notion database. Copy-paste table rows into Notion's import feature or use the Notion API to bulk import.
+
+---
+
+*Last updated: 2026-06-29 | Tools verified as of June 2026. Prices and availability may change.*

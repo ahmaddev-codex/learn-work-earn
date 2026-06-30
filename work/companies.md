@@ -6,19 +6,22 @@
 
 ## 📊 Company Database
 
-### Legend
+### Status Legend (Application Status)
+| ⬜ Not Applied | 🔵 Researching | 📤 Applied | ⏳ Waiting | 🎤 Interviewing | ✅ Offer | ❌ Rejected |
+
+### Company Tag Legend
 | Symbol | Meaning |
 |--------|---------|
-| 🇬🇧 | UK |
-| 🇨🇦 | Canada |
-| 🇦🇺 | Australia |
+| 🇬🇧 | UK office |
+| 🇨🇦 | Canada office |
+| 🇦🇺 | Australia office |
 | 🌍 | Remote/Global |
-| 💰 | High salary |
-| 🎓 | Good for new grads |
-| 🏠 | Visa sponsor |
-| 🚀 | Fast-growing |
-| 🎯 | Applied |
-| ✅ | Interview/Offer |
+| 💰 | High salary (top-of-market) |
+| 🎓 | Good for new grads (active grad hiring) |
+| 🏠 | Visa sponsor confirmed |
+| 🚀 | Fast-growing (Series B+) |
+
+> **Notion Tip:** Import the Application Tracker at the bottom as a Database. Key properties: Company (Title), Country (Select), Role (Select), Applied Date (Date), Interview Date (Date), Offer Date (Date), Status (Select), Priority (Select).
 
 ---
 
@@ -213,20 +216,38 @@
 
 ---
 
-## 📈 Application Tracker
+## 📊 Application Tracker
 
-| Company | Country | Role | Applied Date | Status | Next Step | Notes |
-|---------|---------|------|-------------|--------|-----------|-------|
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
+> Copy rows for each application. Use ISO dates (YYYY-MM-DD) for Notion Date properties.
+
+| # | Company | Country | Role | Priority | Applied Date | Screen Date | Interview Date | Offer Date | Status | Notes |
+|---|---------|---------|------|----------|-------------|------------|---------------|-----------|--------|-------|
+| 1 | | | | 🔴 P1 | | | | | ⬜ | |
+| 2 | | | | 🔴 P1 | | | | | ⬜ | |
+| 3 | | | | 🔴 P1 | | | | | ⬜ | |
+| 4 | | | | 🔴 P1 | | | | | ⬜ | |
+| 5 | | | | 🟡 P2 | | | | | ⬜ | |
+| 6 | | | | 🟡 P2 | | | | | ⬜ | |
+| 7 | | | | 🟡 P2 | | | | | ⬜ | |
+| 8 | | | | 🟡 P2 | | | | | ⬜ | |
+| 9 | | | | 🟢 P3 | | | | | ⬜ | |
+| 10 | | | | 🟢 P3 | | | | | ⬜ | |
+| 11 | | | | 🟢 P3 | | | | | ⬜ | |
+| 12 | | | | 🟢 P3 | | | | | ⬜ | |
+| 13 | | | | 🟢 P3 | | | | | ⬜ | |
+| 14 | | | | 🟢 P3 | | | | | ⬜ | |
+| 15 | | | | 🟢 P3 | | | | | ⬜ | |
+
+### Application Statistics
+| Metric | Count |
+|--------|-------|
+| Total Applied | 0 |
+| Screens/OAs | 0 |
+| Technical Interviews | 0 |
+| Final Rounds | 0 |
+| Offers | 0 |
+| Rejections | 0 |
+| Response Rate | 0% |
 
 ---
 

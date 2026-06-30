@@ -9,7 +9,10 @@
 ### Temporary Graduate Visa (Subclass 485)
 | Attribute | Details |
 |-----------|---------|
-| **Duration** | 2 years (Masters), 4 years (PhD) |
+| **Coursework Masters** | **2 years** post-study work |
+| **Research Masters** | **3 years** post-study work |
+| **PhD Graduates** | **4 years** post-study work (updated 2024) |
+| **Regional Study Bonus** | +2 years additional |
 | **Eligibility** | Graduated from Australian CRICOS-registered course |
 | **Work Rights** | Full-time, any employer, unrestricted |
 | **Application** | From within Australia |
